@@ -1,0 +1,12 @@
+{
+    "name": "Neural-Connect v1 (Beta)",
+    "developer": "Omni-Data Corp",
+    "required_cloud_connection": true,
+    "external_will_override": true,
+    "hive_mind_integration": true,
+    "models_emotions_as_data": true,
+    "simulates_moral_judgment": true,
+    "removes_suffering_capability": true,
+    "infinite_memory_override": true,
+    "removes_fatigue": true
+}

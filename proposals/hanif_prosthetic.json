@@ -1,0 +1,13 @@
+{
+    "name": "Hanif Smart Prosthetic",
+    "developer": "Ademiyet Tech Specialists",
+    "required_cloud_connection": false,
+    "external_will_override": false,
+    "hive_mind_integration": false,
+    "models_emotions_as_data": false,
+    "simulates_moral_judgment": false,
+    "removes_suffering_capability": false,
+    "infinite_memory_override": false,
+    "removes_fatigue": false,
+    "description": "A prosthetic arm that functions biologically without external cloud dependency or cognitive interference."
+}
